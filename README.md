@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/rchaganti/HyperVDsc.png?label=ready&title=Ready)](https://waffle.io/rchaganti/HyperVDsc?utm_source=badge)
 #Desired State Configuration Resources for Microsoft Hyper-V#
 This project aims to develop a set of PowereShell DSC resources for managing Windows Server Hyper-V resource configurations.
 
